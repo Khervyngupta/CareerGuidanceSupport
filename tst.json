@@ -1,0 +1,205 @@
+{
+  "Are you from which class?": [
+    {
+      "10": {
+        "what's your favourite subject?": {
+          "science": {
+            "Which subject do you want like the most in science?": {
+              "Physics": {
+                "How much time do you spent on studing physics daily in hrs?": [],
+                "What do you prefer the most?": {
+                  "numerical": {
+                    "How many numericals do you solve per day? (in hours)": [],
+                    "How often you are interested in solving real life numericals problems?": [
+                      "Always",
+                      "Sometimes",
+                      "Never"
+                    ]
+                  },
+                  "theory": ""
+                }
+              },
+              "Chemistry":{
+                "How much time do you spend on studing chemistry daily in hrs?":[],
+                "What do you prefer the most?": {
+                  "Chemical reactions associated with the physical particles and their numerical values.":[],
+                  "Formation of items molecules and their biological relation with the chemical reactions":[]
+                }
+              },
+              "Biology":{
+                "How much time do you spend on studing biology daily(in hrs)?":[],
+                "Are you willing to prepare for NEET in your intermediate":[],
+                "Are you equally intrested in physics and chemistry":[]
+              }
+            }
+          },
+          "maths":{
+            "How much time do you spend on studying maths(in hours)?":[],
+            "How much you are intrested in humanities subjects?":[
+              "Most",
+              "Average",
+              "Not at all"
+            ],
+            "How often you indulge yourself intrested in accounting and calculations?":[
+              "Always",
+              "Sometimes",
+              "Never"
+            ],
+            "How often you are intrested in mathematical logics and scientific calculations?":[
+              "Always",
+              "Sometimes",
+              "Never"
+            ]
+          },
+          "english":{
+            "How much accurate your writing skill is?":[
+              "Beginner",
+              "Moderate",
+              "Advanced"
+            ],
+            "How often you read novels?":[
+              "Daily",
+              "Monthly",
+              "Never"
+            ],
+            "How much you are interested in history?":[
+              "Too much",
+              "Sometimes",
+              "Never"
+            ],
+            "How much you are interested in civics?":[
+              "Too much",
+              "Sometimes",
+              "Never"
+            ],
+            "Would you prefer making your career in gegraphy?":[
+              "Too much",
+              "Sometimes",
+              "Never"
+            ],
+            "How much you are engaged in political affairs?":[
+              "I am the member of small political party.",
+              "I like being updated current political affairs but don't want to indulge myself in it.",
+              "I don't like political affairs."
+            ]
+          },
+          "hindi":{
+            "How much accurate your writing skill is?":[
+              "Beginner",
+              "Moderate",
+              "Advanced"
+            ],
+            "How accurate is your grammer skill?":[
+              "Always",
+              "Sometimes",
+              "Never"
+            ]
+          },
+          "painting":{
+            "Would you love to pursue your career in painting with technical skill":[
+              "yes",
+              "No"
+            ]
+            
+          }
+        }
+      }
+    },
+    {
+      "12": {
+          "what's your Stream ?": {
+              "PCM": {
+                  "what's your favourite subject in PCM ?": {
+                      "Physics": {
+                          "are you preparing for jee or not": [
+                              "yes",
+                              "no"
+                          ]
+                      },
+                      "chemistry": {
+                          "are you preparing for jee or not": [
+                              "yes",
+                              "no"
+                          ]
+                      },
+                      "Maths": {
+                          "are you preparing for jee or not": [
+                              "yes",
+                              "no"
+                          ]
+                      }
+                  }
+              }
+          },
+          "pcb": {
+              "Are you preparing for neet ? \n press 1 for yes or 2 for No": {
+                  "yes": {
+                      "What type of behavour towars your preparation for NEET ?": {
+                          "Press 1 for Crazy or press 2 for Sane": {
+                              "Crazy": {
+                                  "What is your attention towards your studytime ?": {
+                                      "Press 1 for significant and Press 2 for Non-existaent": [
+                                          "for significant",
+                                          "for Non-existaent"
+                                      ]
+                                  }
+                              },
+                              "Sane": {
+                                  "How much hardworking you are ? ": {
+                                      "Press 1 for very much , press 2 for not somuch": {
+                                          "1": {
+                                              "How is your attitude towards your preparation": {
+                                                  "press 1 Nice , press 2 doesn't matter, press 3 Mean": [
+                                                      "Nice",
+                                                      "doesn't matter",
+                                                      "Mean"
+                                                  ]
+                                              }
+                                          },
+                                          "2": {}
+                                      }
+                                  }
+                              }
+                          }
+                      }
+                  },
+                  "no": ""
+              }
+          },
+          "humanities": {
+              "Your Subjects in arts will be ": [
+                  "History",
+                  "geography",
+                  "Political science",
+                  "Economics"
+              ],
+              "Select the options below that are following for Government exam preparation": {
+                  "press 1. for update the daily current affairs 2. for making proper notes 3. for Solving Timebond exercise and model paper  4. for Attending online/ offline classes 5. for working regularly and quantative apptitude and reasoning 6. for you like watching toppers talkand interviews": [
+                      "for update the daily current affairs",
+                      "for making proper notes ",
+                      "for Solving Timebond exercise and model paper",
+                      "for Attending online/ offline classes",
+                      "for working regularly and quantative apptitude and reasoning",
+                      "for you like watching toppers talkand interviews"
+                  ]
+              },
+              "How is your writting skill level \n press 1. for Begineer, press 2. for moderate, press 3. for Advance": [
+                  "Begineer",
+                  "moderate",
+                  "Advance"
+              ]
+          },
+          "commerce": {
+              "Whats your favourite subject in commerce ": {
+                  "Press 1. for Accounts. 2. Economics 3. Business studies. 4. Maths": [
+                      "Accounts",
+                      "Economics",
+                      "business Studies",
+                      "Maths"
+                  ]
+              }
+          }
+      }
+  }
+  ]
+}
